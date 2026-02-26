@@ -1,16 +1,16 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi there! I'm Sakshi Muksiya<br>🎯 About Me<br><br>I'm a B.Tech student currently navigating the exciting world of technology from my base in [B City]. Think of me as a digital explorer – constantly curious and always ready to dive into the next technological rabbit hole! <br><br>You know that friend who gets genuinely excited about both robot movements AND stock market algorithms? That's me! While my peers debate Marvel vs. DC, I'm over here fascinated by the epic crossover potential of FinTech meets HealthTech meets Robotics. Because why settle for disrupting one industry when you can dream about revolutionizing three?<br><br>🔭 Currently Working On<br>• Human-Robot Collaboration Project 🤖🤝👨‍💻  <br>  Teaching robots to play nice with humans (spoiler: they're better at it than some humans I know!)<br>  <br>• Building a Neural Network from Scratch  <br>  Because sometimes you need to understand what's under the hood before you can truly drive the car. It's like assembling IKEA furniture, but for AI – lots of pieces, cryptic instructions, but incredibly satisfying when it finally works!<br><br>• FinTech Explorations 💰  <br>  Developing projects that make money management as intuitive as scrolling through social media (but hopefully more productive!)<br><br>🌱 What Drives Me<br><br>I believe technology should be like a good coffee – strong, accessible, and capable of changing your entire day. Whether it's making healthcare smarter, finance friendlier, or robots more collaborative, I'm all about building tech that actually matters.<br><br>💞️ Looking to Collaborate On<br><br>I'm actively seeking fellow tech enthusiasts who:<br>• Share my passion for robotics, FinTech, or HealthTech<br>• Believe that the best code is written with coffee and collaboration<br>• Want to build solutions that make people say "Why didn't this exist before?"<br><br>Got an idea that sits at the intersection of innovation and impact? Let's connect! I'm particularly interested in projects that challenge conventional thinking – because the best breakthroughs happen when we color outside the lines.<br><br>📫 How to Reach Me<br>sakshimuksiya@gmail.com<br><br>www.linkedin.com/in/sakshi-muksiya-10s03m24k<br><br><br>"The future is already here – it's just not evenly distributed." – William Gibson  <br>Let's work together to distribute it better!<br><br><br>
 
-<!--
-**SakshiMuksiya/SakshiMuksiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sakshi Muksiya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshimuksiya@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+![](https://nirzak-streak-stats.vercel.app/?user=SakshiMuksiya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiMuksiya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
